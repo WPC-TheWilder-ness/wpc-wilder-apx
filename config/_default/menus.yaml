@@ -1,0 +1,30 @@
+main:
+  - name: KERNEL
+    url: 'https://drive.google.com/drive/folders/1jhePvlqF4m3WXzFFBckbKbT20pl8nXOi?usp=drive_link'
+    weight: 1
+  - name: INPUT
+    url: 'https://github.com/blairmunroakusa'
+    weight: 2
+  - name: OUTPUT
+    url: 'https://tiktok.com/wilderwpc'
+    weight: 3
+  - name: COMMS
+    url: 'https://comms.wilder.wp.computer'
+    weight: 4
+  - name: PPU
+    url: 'https://theindividual.up.computer'
+    weight: 5
+  - name: CPU
+    url: 'https://drive.google.com/drive/folders/18upKQSKk84cdk3Wu6jQmgQk9Vt-8B8Xk?usp=drive_link'
+    weight: 6
+  - name: GPU
+    url: 'https://www.youtube.com/@wilder-worldpiececomputer'
+    weight: 7
+  - name: PSU
+    url: 'https://wilder.wp.computer/psu'
+    weight: 8
+  - name: $
+    url: 'https://www.gofundme.com/f/support-blair-wilder-to-fund-the-time-machine-for-peace'
+    weight: 9
+
+
