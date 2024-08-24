@@ -26,5 +26,8 @@ main:
   - name: $
     url: 'https://www.gofundme.com/f/support-blair-wilder-to-fund-the-time-machine-for-peace'
     weight: 9
+  - name: ABOUT
+    url: 'https://apx.wp.computer'
+    weight: 10
 
 
