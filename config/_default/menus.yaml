@@ -4,22 +4,22 @@ main:
     weight: 1
   - name: INPUT
     url: 'https://github.com/blairmunroakusa'
-    weight: 2
+    weight: 5
   - name: OUTPUT
     url: 'https://tiktok.com/wilderwpc'
-    weight: 3
+    weight: 6
   - name: COMMS
     url: 'https://comms.wilder.wp.computer'
-    weight: 4
+    weight: 7
   - name: PPU
     url: 'https://theindividual.up.computer'
-    weight: 5
+    weight: 2
   - name: CPU
     url: 'https://drive.google.com/drive/folders/18upKQSKk84cdk3Wu6jQmgQk9Vt-8B8Xk?usp=drive_link'
-    weight: 6
+    weight: 3
   - name: GPU
     url: 'https://www.youtube.com/@wilder-worldpiececomputer'
-    weight: 7
+    weight: 4
   - name: PSU
     url: 'https://wilder.wp.computer/psu'
     weight: 8
