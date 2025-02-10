@@ -1,5 +1,5 @@
 ---
-title: GREETINGS
+title: THE WILDER-NESS (×) ADVENTURES!
 draft: false
 avatar: images/HALFPORTRAIT.png
 bio: 
