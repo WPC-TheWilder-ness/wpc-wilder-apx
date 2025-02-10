@@ -1,6 +1,6 @@
 main:
-  - name: COMMS
-    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+  - name: WARNING
+    url: 'https://disclaimerwarning.wilder.wp.computer'
     weight: 1
   - name: THI
     url: 'https://thehumanimperative.wilder.wp.computer'
@@ -17,3 +17,14 @@ main:
   - name: CGPS 
     url: 'https://computationalglobalpeacesystem.wilder.wp.computer'
     weight: 6
+  - name: TMFP 
+    url: 'https://timemachineforpeace.wilder.wp.computer'
+    weight: 7
+  - name: COMMS
+    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+    weight: 8
+  - name: ☮!
+    url: 'https://peacebang.wilder.wp.computer'
+    weight: 9
+
+
