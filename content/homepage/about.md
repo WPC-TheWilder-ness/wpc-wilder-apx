@@ -28,6 +28,9 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
+
+[[ UNDER CONSTRUCTION ]]
+
 ## ... A Study In Peace And War
 
 #### **!HALT** ~ _please visit link below to review liability disclaimer_
