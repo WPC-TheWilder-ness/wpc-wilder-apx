@@ -1,22 +1,19 @@
 main:
+  - name: COMMS
+    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+    weight: 1
   - name: THI
     url: 'https://thehumanimperative.wilder.wp.computer'
-    weight: 1
+    weight: 2
   - name: CPB
     url: 'https://corepeacebias.wilder.wp.computer'
-    weight: 2
+    weight: 3
   - name: PLF
     url: 'https://peacelinguafranca.wilder.wp.computer'
-    weight: 3
+    weight: 4
   - name: GPD 
     url: 'https://generalpeacedynamics.wilder.wp.computer'
-    weight: 4
-  - name: XPG
-    url: 'https://thewilder-nesspeaceblobgenerator.wilder.wp.computer'
     weight: 5
-  - name: CCP
-    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
-    weight: 6
   - name: CGPS 
     url: 'https://computationalglobalpeacesystem.wilder.wp.computer'
-    weight: 7
+    weight: 6
