@@ -30,11 +30,9 @@ widget:
 ---
 ## ... A Study In Peace And War
 
-~
-
 #### **!HALT** ~ _please visit link below to review liability disclaimer_
-#### [<<CAUTION|WARNING|DANGER|RISK>>](https://cautionlabel.wilder.wp.computer)
-_!!! Proceeding indicates you acknowledge and consent to liability outlined above in disclaimer._
+#### [<<CAUTION|WARNING|DANGER|RISK>>](https://warningdisclaimer.wilder.wp.computer)
+_!!! Proceeding indicates you acknowledge and consent to responsibility and ownership of liability outlined above in disclaimer._
 
 #### **STREAM WINDOW 1**
 

@@ -1,5 +1,5 @@
 main:
-  - name: WARNING
+  - name: WAR
     url: 'https://disclaimerwarning.wilder.wp.computer'
     weight: 1
   - name: THI
@@ -20,7 +20,7 @@ main:
   - name: TMFP 
     url: 'https://timemachineforpeace.wilder.wp.computer'
     weight: 7
-  - name: COMMS
+  - name: CONVO
     url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
     weight: 8
   - name: ☮!
