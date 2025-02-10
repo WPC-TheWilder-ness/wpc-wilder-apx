@@ -1,5 +1,5 @@
-baseURL: 'https://wilder.wp.computer/'
-title: WILDER WPC
+baseURL: 'https://apx.wilder.wp.computer/'
+title: WILDER WPC (wPB-ME, V1)
 
 # Uncomment when not installing with Hugo Modules
 # theme: eureka
@@ -9,8 +9,7 @@ theme: wangchucheng.com/hugo-eureka
 
 paginate: 20
 copyright: >
-  &copy; 2022 <a href="https://up.computer/">The Universal Piece Computer</a>, <a
-  href="https://wp.computer/">World Piece Computer</a> = <a href="https://drive.google.com/file/d/1v7_b6f8gz5Un88guolEYnPjscFyJT1JL/view?usp=sharing">Wilder WPC</a> ... <a href="https://drive.google.com/file/d/13of5dva-mwCZr3u4rC9mIvp87TjA7qLz/view?usp=sharing" class="hover:text-eureka">(a study in peace)</a>
+  &copy; 2025 Wilder WPC & World Peacebrain Mindeye V1 ~ <a href="https://www.patreon.com/c/wilderwpc">Content Portal, Patreon</a> ~ <a href="https://drive.google.com/file/d/13of5dva-mwCZr3u4rC9mIvp87TjA7qLz/view?usp=sharing" class="hover:text-eureka">ORIGIN STORY: A Study In Peace (Operator's Manual for the Timespace Matter Mindmachine)</a>
 enableGitInfo: false
 summaryLength: 75
 

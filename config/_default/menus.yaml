@@ -1,33 +1,22 @@
 main:
-  - name: KERNEL
-    url: 'https://drive.google.com/drive/folders/1jhePvlqF4m3WXzFFBckbKbT20pl8nXOi?usp=drive_link'
+  - name: THI
+    url: 'https://thehumanimperative.wilder.wp.computer'
     weight: 1
-  - name: INPUT
-    url: 'https://github.com/blairmunroakusa'
-    weight: 5
-  - name: OUTPUT
-    url: 'https://tiktok.com/wilderwpc'
-    weight: 6
-  - name: COMMS
-    url: 'https://comms.wilder.wp.computer'
-    weight: 7
-  - name: PPU
-    url: 'https://theindividual.up.computer'
+  - name: CPB
+    url: 'https://corepeacebias.wilder.wp.computer'
     weight: 2
-  - name: CPU
-    url: 'https://drive.google.com/drive/folders/18upKQSKk84cdk3Wu6jQmgQk9Vt-8B8Xk?usp=drive_link'
+  - name: PLF
+    url: 'https://peacelinguafranca.wilder.wp.computer'
     weight: 3
-  - name: GPU
-    url: 'https://www.youtube.com/@wilder-worldpiececomputer'
+  - name: GPD 
+    url: 'https://generalpeacedynamics.wilder.wp.computer'
     weight: 4
-  - name: PSU
-    url: 'https://wilder.wp.computer/psu'
-    weight: 8
-  - name: $
-    url: 'https://www.gofundme.com/f/support-blair-wilder-to-fund-the-time-machine-for-peace'
-    weight: 9
-  - name: ABOUT
-    url: 'https://apx.wp.computer'
-    weight: 10
-
-
+  - name: XPG
+    url: 'https://thewilder-nesspeaceblobgenerator.wilder.wp.computer'
+    weight: 5
+  - name: CCP
+    url: 'https://conversationcommunicationprotocols.wilder.wp.computer'
+    weight: 6
+  - name: CGPS 
+    url: 'https://computationalglobalpeacesystem.wilder.wp.computer'
+    weight: 7
