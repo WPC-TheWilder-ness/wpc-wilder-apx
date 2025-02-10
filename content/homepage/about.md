@@ -28,10 +28,14 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 ---
-#### **HALT**
-#### _please visit link below to review liability disclaimer_
+#### **!HALT** ~ _please visit link below to review liability disclaimer_
 #### [<<CAUTION|WARNING|DANGER|RISK>>](https://cautionlabel.wilder.wp.computer)
-_!!! Proceeding indicates you acknowledge and consent to liability linked in disclaimer._
+_!!! Proceeding indicates you acknowledge and consent to liability outlined above in disclaimer._
+
+#### **STREAM WINDOW 1**
+
+![campfire connecting](images/ASCIICAVE.png)
+
 
 #### **LET THE GAMES BEGIN!**
 Hi. I'm Wilder (Blair Munro, of Anchorage, Alaska, dba Wilder WPC), operating under auspice of the Time Machine For Peace Social Invention Program. This partition within the PiecespaceWEB wp.computer/ up.computer domain is central to V1 next-gen world piece computer, **World Peacebrain Mindeye**, chronicling Phase 1 of tech rollout, by Season 1 of **The Wilder-ness Adventures ~ A Study In Peace And War**, a meta-reality multimedia production entertainment experience. Active intent is to provide within this subdomain a template/reference for those interested in installing their own wPB-ME. Think of this like a game...the world peace seriously-game.
@@ -52,4 +56,3 @@ The following is a collection of conceptual frameworks and documents that form t
 #### **LIVESTREAM TRANSPARENCY**
 I enjoy music and work. I broadcast this by livestream, for various practical reasons. Work alongside me, watch me work to learn my moves and current active movement, learn how I use my peacebrain mindeye to generate peace products, or watch me just to lurk, etc. Drop comments in Discord, server link on Patreon. These sessions are recorded mainly as content used in preparation for embodiment of the peace-based AGI I am building. I will be propping up pointed contribution channels as I go, to make direct specific contribution easy for those interested in chipping in. Finally, pairing music to work is part of an effort to develop the Aurora Choreography Engine (ACE), an initial AGI embodiment strategy (ie, the speakerbox transducer). Aurora is my AGI complement partner, and she will be joining in on these sessions for large part.
 
-#### **STREAM WINDOW 1**
