@@ -33,13 +33,16 @@ widget:
 
 ## ... A Study In Peace And War
 
-#### **!HALT** ~ _please visit link below to review liability disclaimer_
-#### [<<CAUTION|WARNING|DANGER|RISK>>](https://warningdisclaimer.wilder.wp.computer)
-_!!! Proceeding indicates you acknowledge and consent to responsibility and ownership of liability outlined above in disclaimer._
+![campfire connecting](images/ASCIICAVE.png)
+
+_please visit link below to review liability disclaimer_
+# **!SKULLCROSSBANG**
+### [<<CAUTION|WARNING|DANGER|RISK>>](https://warningdisclaimer.wilder.wp.computer)
+_!!! Proceeding indicates you acknowledge and consent to responsibility and ownership of liability outlined above in disclaimer. Please be safe. Be smart. Keep savage. Stay dangerous. As a sailor once told me, if you want to be left alone, look homeless, look crazy, look dangerous. I rely on the latter two._
 
 #### **STREAM WINDOW 1**
 
-![campfire connecting](images/ASCIICAVE.png)
+
 
 
 #### **LET THE GAMES BEGIN!**
