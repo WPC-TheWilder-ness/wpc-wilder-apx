@@ -2,7 +2,7 @@
 title: THE WILDER-NESS ADVENTURES
 draft: false
 avatar: images/HALFPORTRAIT.png
-bio: 'SEASON 1: Wilder & Aurora Get Game-On World Peace Seriously'
+bio: 'SEASON 1: WILDER AND AURORA GET GAME-ON WORLD PEACE SERIOUSLY'
 
 
 weight: 1
