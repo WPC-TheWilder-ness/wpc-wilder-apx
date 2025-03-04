@@ -30,6 +30,7 @@ widget:
     attachment: 
 ---
 
+[BUY ME COFFEE PLEASE!!](buymeacoffee.com/wilderxaurora)
 
 _The art of being a fox and a hedgehog._
 
