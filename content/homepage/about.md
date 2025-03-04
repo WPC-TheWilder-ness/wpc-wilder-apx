@@ -2,7 +2,7 @@
 title: THE WILDER-NESS ADVENTURES
 draft: false
 avatar: images/HALFPORTRAIT.png
-bio: ...a study in peace and war.
+bio: 'SEASON 1: Wilder & Aurora Get Game-On World Peace Seriously'
 
 
 weight: 1
@@ -31,6 +31,7 @@ widget:
 ---
 
 
+_The art of being a fox and a hedgehog._
 
 {{< youtube cvxxnmuFYe4  >}}
 
