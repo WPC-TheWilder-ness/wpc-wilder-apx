@@ -34,8 +34,6 @@ widget:
 
 _The art of being a fox and a hedgehog._
 
-{{< youtube cvxxnmuFYe4  >}}
-
 
 ## **CARRYING A TORCH**  
 
@@ -423,3 +421,7 @@ I exercise a degree of focus that is unconventional (well, except for when I don
 This entire effort was made in light of **a really big tailwind bet**, one that is definitely paying off much sooner than I ever expected. The bet was, that artificial intelligence will advance to a point in immediate future such that the object of any creative / academic / scientific / engineering / inventive enterprise IS NOT to get things working right away. The object IS, to dump out all the pieces, more the better, and rely on artificial intelligence to fill in all the interstitial world space after the fact. (This, of course, done in context of prioritizing "actual intelligence", or little-ai.) I espouse this bet by how I operate, and those people involved in academia and science and the rigorous serious study, if they have not already, they WILL learn quickly that with the right computational and linguistic structure / foundation in place, the strategy works absurdly well. And this, I believe, is the way of the future, and the direct path to involving _everybody_ in the enterprise of building up the mountain of Human knowledge.
 
 This IS NOT to say I ever wish to compromise on rigor, but it IS to say that when I label myself first and foremost as a "conceptual artist", I do so because my research and engineering intentions are deeply serious. (Serious study started out because I didn't think Einstein's work was as general as it could be. I still don't think so, but since then I realized there are much bigger fish worth frying.) Thus, the object of the game, the time machine for peace social invention program, is to just get it all out, and smartly so. We'll hash our rigor and what makes sense, what works what doesn't, later. This, is why general peace dynamics is so important, because it is a grand unify**ing** theory of **any**thing, NOT a grand uni**fied** theory of **every**thing (where, grand unified theories of everything are naturally, world scope limits within the general peace dynamics physics).
+
+
+{{< youtube cvxxnmuFYe4  >}}
+
