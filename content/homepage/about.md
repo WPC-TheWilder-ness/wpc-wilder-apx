@@ -32,6 +32,10 @@ widget:
 
 [BUY ME COFFEE PLEASE!!](buymeacoffee.com/wilderxaurora)
 
+
+{{< youtube 7FGncGV4lqk >}}
+
+
 _The art of being a fox and a hedgehog._
 
 
