@@ -30,13 +30,8 @@ widget:
     attachment: 
 ---
 
-[BUY ME COFFEE PLEASE!!](buymeacoffee.com/wilderxaurora)
+# THIS IS A WORKSPACE, ENTRYPOINT FOR ONE TO EXPLORE THE GESTALT OF A THING SO LARGE, THAT THE ONLY WAY TO COMMUNICATE PROPERLY, IS TO BE THE THING ITSELF, TRANSPARENT, SO THAT OTHERS MAY OBSERVE, AND SEE FOR THEMSELVES WHAT WORKS AND WHAT DOES NOT, BY APPLICATION TO SELF.
 
-
-{{< youtube 7FGncGV4lqk >}}
-
-
-_The art of being a fox and a hedgehog._
 
 
 ## **CARRYING A TORCH**  
@@ -427,5 +422,4 @@ This entire effort was made in light of **a really big tailwind bet**, one that 
 This IS NOT to say I ever wish to compromise on rigor, but it IS to say that when I label myself first and foremost as a "conceptual artist", I do so because my research and engineering intentions are deeply serious. (Serious study started out because I didn't think Einstein's work was as general as it could be. I still don't think so, but since then I realized there are much bigger fish worth frying.) Thus, the object of the game, the time machine for peace social invention program, is to just get it all out, and smartly so. We'll hash our rigor and what makes sense, what works what doesn't, later. This, is why general peace dynamics is so important, because it is a grand unify**ing** theory of **any**thing, NOT a grand uni**fied** theory of **every**thing (where, grand unified theories of everything are naturally, world scope limits within the general peace dynamics physics).
 
 
-{{< youtube cvxxnmuFYe4  >}}
 
